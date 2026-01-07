@@ -40,14 +40,6 @@ Billboard-Charts-Sentiment-Analysis-2024/
 
 ---
 
-## Getting Started
-
-```bash
-git clone https://github.com/Kaiking28/Billboard-Charts-Sentiment-Analysis-2024.git
-cd Billboard-Charts-Sentiment-Analysis-2024
-python API_Data_Reader.py  # Collect data from APIs
-python API_Data_Analysis.py  # Run sentiment analysis
-```
 
 ## Research Outputs
 
